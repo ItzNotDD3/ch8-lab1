@@ -183,10 +183,10 @@ tr:nth-child(odd) {
 }
 /* Style rules for form elements */
 fieldset {
-  margin-bottom: 2%
+  margin-bottom: 2%;
 }
 input {
-  margin-bottom: 2%
+  margin-bottom: 2%;
 }
 fieldset legend {
   font-weight: bold;
